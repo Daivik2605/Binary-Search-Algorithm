@@ -11,6 +11,7 @@ Binary Search takes advantage of a collection of elements that is already sorted
 We can implement Binary Search in two ways -> Recursive approach and the Iterative approach.
 
 **Time Complexity: O(log n)**
+
 **Auxiliary Space: O(1)**
 
 Reference: https://www.geeksforgeeks.org/python-program-for-binary-search/
